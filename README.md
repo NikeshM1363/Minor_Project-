@@ -1,6 +1,6 @@
 # 📊 Cost of Living Prediction Model Deployment
 
-This repository contains the necessary files for deploying our Cost of Living Prediction Model onto a website. The project utilizes Flask for the backend and includes HTML, CSS, and JavaScript for the frontend.
+This repository contains the necessary files for deploying our Cost of Living Prediction Model onto a website. The project utilizes Flask for the backend and includes HTML, CSS, JavaScript, and Bootstrap for the front end.
 
 ## 📁 Project Structure
 
